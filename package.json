@@ -1,0 +1,11 @@
+{
+  "name": "flaskapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "microblog.py",
+  "scripts": {
+    "startSV": "set FLASK_APP=microblog.py & flask run"
+  },
+  "author": "Guilherme",
+  "license": "MIT"
+}
